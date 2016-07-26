@@ -1,0 +1,5 @@
+---
+applications:
+- name: grif-simple-go-web-app
+  disk: 256M
+  memory: 128M
