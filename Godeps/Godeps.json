@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/gmpeterson/simple-go-web-app",
+	"ImportPath": "github.com/gmpeterson/grif-simple-go-web-app",
 	"GoVersion": "go1.5",
 	"Packages": [
 		"./..."
